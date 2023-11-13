@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: gold;
+}
+
+#first {
+    margin-left: 38%;
+    border-color: red;
+    background-color: wheat;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 38px;
+    margin-bottom: 10px;
+}
+
+#second {
+    margin-left: 38%;
+    border-color: red;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 300px;
+    height: 38px;
+}
+
+input[type = button] {
+    width: 50px;
+    height: 50px;
+}
+
+#qoshuvchi {
+    margin-top: 15px;
+    margin-left: 41%;
+}
